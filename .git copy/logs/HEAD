@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 14aa9d1e673fa2fc998893bf71e27606dd08f957 Sabrina K <sabrina.koumoin@gmail.com> 1542427553 -0500	commit (initial): Initial commit from Create React App
+14aa9d1e673fa2fc998893bf71e27606dd08f957 991c3d78ddfa2a2d2fa16f18bb76d66c9b2fbebf Sabrina K <sabrina.koumoin@gmail.com> 1542503845 -0500	commit: first commit
+991c3d78ddfa2a2d2fa16f18bb76d66c9b2fbebf 21cfcf3bb2ebda2b4ace1c61255c976dbf8f59dc Sabrina K <sabrina.koumoin@gmail.com> 1542504382 -0500	commit: again
+21cfcf3bb2ebda2b4ace1c61255c976dbf8f59dc cc189d86abcff1e1fe7ead2c7485745e96301e09 Sabrina K <sabrina.koumoin@gmail.com> 1542504559 -0500	commit: hey
+cc189d86abcff1e1fe7ead2c7485745e96301e09 e04de958c3d25c483f6319c1fd5ad19d651bf19e Sabrina K <sabrina.koumoin@gmail.com> 1542504807 -0500	commit: hey
+e04de958c3d25c483f6319c1fd5ad19d651bf19e 16461843fe99cd3f58adef7e2b34f1d37d23206c Sabrina K <sabrina.koumoin@gmail.com> 1542504910 -0500	commit: trying to get it
+16461843fe99cd3f58adef7e2b34f1d37d23206c 3afbe63d4c8133d57a4b8153cf090ba259532f26 Sabrina K <sabrina.koumoin@gmail.com> 1542505707 -0500	commit: hey
+3afbe63d4c8133d57a4b8153cf090ba259532f26 ff4cfcf0eb82de81bf86146c8367f67da954be43 Sabrina K <sabrina.koumoin@gmail.com> 1542506004 -0500	commit: changed start script
+ff4cfcf0eb82de81bf86146c8367f67da954be43 6b98c434ed143481f66b05cc92d79303d93e7479 Sabrina K <sabrina.koumoin@gmail.com> 1542506205 -0500	commit: rechanged scripts
+6b98c434ed143481f66b05cc92d79303d93e7479 a1c8e6b2e69a2a8c150bac11c16b5c3ecf8577d7 Sabrina K <sabrina.koumoin@gmail.com> 1542506416 -0500	commit: hi
+a1c8e6b2e69a2a8c150bac11c16b5c3ecf8577d7 6af8939eff18312e75df546726fcaea10c1d1dcc Sabrina K <sabrina.koumoin@gmail.com> 1542506641 -0500	commit: jj
+6af8939eff18312e75df546726fcaea10c1d1dcc f64d04376cd0100fa84ef4b15669a35df1906267 Sabrina K <sabrina.koumoin@gmail.com> 1542563884 -0500	commit: added / created a webpack.config.js file in the nodemodule/webpack-devserver/client
+f64d04376cd0100fa84ef4b15669a35df1906267 dbcde9c5210242a8a9bc6929d14cd1c63d0d7007 Sabrina K <sabrina.koumoin@gmail.com> 1542578909 -0500	commit: its all dockerized now, running on heroku
+dbcde9c5210242a8a9bc6929d14cd1c63d0d7007 2d692902364fd40c0221ce2871da8e0dd2891939 Sabrina K <sabrina.koumoin@gmail.com> 1542578965 -0500	commit (merge): testing with docker
