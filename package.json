@@ -24,7 +24,7 @@
     "react-websocket": "^2.0.0",
     "socket.io-client": "^2.2.0",
     "superagent": "^4.1.0",
-    "swiper": "^4.4.6",
+    "swiper": "^6.5.1",
     "ws": "^6.1.2"
   },
   "devDependencies": {
